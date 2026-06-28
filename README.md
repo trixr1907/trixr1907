@@ -16,7 +16,6 @@ I build production-minded web applications, 3D interfaces and practical tools wi
 
 - ivo-tech — personal portfolio and project showcase
 - AutoCoupon — browser extension for local coupon activation workflows
-- Alertivo — local desktop monitoring/control-center app
 - WinSetup-Pro — PowerShell setup orchestration for Windows environments
 
 ## Contact
