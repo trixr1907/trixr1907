@@ -22,8 +22,6 @@ I build production-minded web applications, 3D interfaces and practical tools wi
 ## Tools & automation
 
 - [AURA Quant Terminal](https://github.com/trixr1907/AURA-Quant-Terminal) — quantitative research terminal: Bitget relay, walk-forward validation, deflated Sharpe ratio, Kelly sizing, SMC analysis (MIT).
-- [WinSetup-Pro](https://github.com/trixr1907/WinSetup-Pro) — profile-based PowerShell setup orchestration for reproducible Windows environments (MIT).
-- [AutoCoupon](https://github.com/trixr1907/AutoCoupon) — local browser extension for coupon activation workflows.
 
 ## Availability
 
