@@ -15,6 +15,8 @@ I build production-minded web applications, 3D interfaces and practical tools wi
 ## Selected work
 
 - [GOALS Optimizer](https://goals.ivo-tech.com) — Next.js 14 squad & tactics optimizer: squad import, fit scores, development tracker, complex matching algorithms, 408 automated tests. ([source](https://github.com/trixr1907/goals-optimizer))
+- [Event Management Hub](https://eventhub.ivo-tech.com) — full-stack event platform: Supabase RLS, audit trail, DSGVO exports, HCP compliance tracking.
+- [DLD 3D Configurator](https://deinlieblingsdruck.de/) — live WooCommerce 3D-print configurator: Three.js STL preview, pricing engine, WordPress admin panel. (case study at [ivo-tech.com](https://ivo-tech.com))
 - [ivo-tech portfolio](https://ivo-tech.com) — personal portfolio and selected project showcase.
 - [AutoCoupon](https://github.com/trixr1907/AutoCoupon) — local browser extension for coupon activation workflows.
 - [WinSetup-Pro](https://github.com/trixr1907/WinSetup-Pro) — PowerShell setup orchestration for reproducible Windows environments.
