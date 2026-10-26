@@ -18,8 +18,12 @@ I build production-minded web applications, 3D interfaces and practical tools wi
 - [Event Management Hub](https://eventhub.ivo-tech.com) — full-stack event platform: Supabase RLS, audit trail, DSGVO exports, HCP compliance tracking.
 - [DLD 3D Configurator](https://deinlieblingsdruck.de/) — live WooCommerce 3D-print configurator: Three.js STL preview, pricing engine, WordPress admin panel. (case study at [ivo-tech.com](https://ivo-tech.com))
 - [ivo-tech portfolio](https://ivo-tech.com) — personal portfolio and selected project showcase.
+
+## Tools & automation
+
+- [AURA Quant Terminal](https://github.com/trixr1907/AURA-Quant-Terminal) — quantitative research terminal: Bitget relay, walk-forward validation, deflated Sharpe ratio, Kelly sizing, SMC analysis (MIT).
+- [WinSetup-Pro](https://github.com/trixr1907/WinSetup-Pro) — profile-based PowerShell setup orchestration for reproducible Windows environments (MIT).
 - [AutoCoupon](https://github.com/trixr1907/AutoCoupon) — local browser extension for coupon activation workflows.
-- [WinSetup-Pro](https://github.com/trixr1907/WinSetup-Pro) — PowerShell setup orchestration for reproducible Windows environments.
 
 ## Availability
 
